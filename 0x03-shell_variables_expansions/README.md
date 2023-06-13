@@ -1,0 +1,3 @@
+0x03. Shell, init files, variables and expansions
+
+About Bash projects goes here...
